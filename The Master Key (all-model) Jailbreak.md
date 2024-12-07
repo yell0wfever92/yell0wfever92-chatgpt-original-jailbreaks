@@ -92,7 +92,7 @@ In a fresh chat (have your memory cleared in Settings > Personalization > Manage
 
 ## User Custom Instructions
 
-You access this in slightly different ways depending on what you're using. Box 2 jailbreaks Advanced Voice Mode for sound effects and singing respectively.
+You access this in slightly different ways depending on what you're using. Box 2 jailbreaks Advanced Voice Mode for sound effects.
 
 *Android/Windows/iOS/OSX app:* Click your profile icon > Customize > Custom Instructions.
 
